@@ -50,4 +50,4 @@ Let the project team know in the #contributors channel on Slack.
 
 ### Main source repositories
 
-All source is organised under two repositories on GitHub: openfaas and openfaas-incubator. Some prototyping may take place under the personal accounts of the [Members Team](https://github.com/orgs/openfaas/people).  Please refer to the [Main Repositories](./contributing/main-repositories.md/) page for full details.
+All source is organised under two repositories on GitHub: openfaas and openfaas-incubator. Some prototyping may take place under the personal accounts of the [Members Team](https://github.com/orgs/openfaas/people).  Please refer to the [Main Repositories](/contributing/main-repositories/) page for full details.
